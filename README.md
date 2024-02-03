@@ -33,3 +33,7 @@ Download the latest version of Cyps AI from our website.
 *For support or feedback, please contact us at cypsai@outlook.com.
 
 *We value your input and will do our best to assist you promptly.
+
+# Special Thanks：
+
+[GPT-Protecter](https://github.com/GPT-Protecter/GPT-Protecter) It implements an insurance mechanism that afford redress for the damage caused by hallucinations, helping users to address this phenomenon effectively.
